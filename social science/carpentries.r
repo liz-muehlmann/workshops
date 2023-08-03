@@ -45,4 +45,5 @@ safi  %>%
     group_by(village)  %>% 
     summarize(mean_no_membrs = mean(no_membrs))
 
-foods
+
+
